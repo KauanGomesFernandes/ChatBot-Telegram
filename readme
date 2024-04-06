@@ -7,4 +7,9 @@
     ⚠️AVISO: O chatbot está offline pois a hospedagem gratuita que eu usava para mantê-lo online encerrou o plano gratuito.
     PLATAFORMA: TELEGRAM
     AUTOR: Kauan Gomes Fernandes
+
+    LIBS:
+    pip install requests
+    pip install python-dotenv
+    pip install emoji
 """
